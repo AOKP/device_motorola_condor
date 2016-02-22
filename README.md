@@ -1,4 +1,4 @@
-Unified Device Tree For Motorola E
+Device tree for Motorola Moto E '14
 ==================================
 
 The Motorola (codenamed _"Condor"_) is a low-range smartphone from Motorola mobility.
