@@ -1,7 +1,7 @@
 [
   {
-    "remote": "aokp",
-    "repository":  "device_motorola_msm8610-common",
+    "remote": "cm",
+    "repository":  "android_device_motorola_msm8610-common",
     "target_path": "device/motorola/msm8610-common"
   },
   {
